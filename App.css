@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.todo-box  {
+  height: 500px;
+  width: 500px;
+  margin: auto;
+  margin-top: 50px;
+  color: #F95700FF;
+  border: 5px solid #F95700FF; 
+}
+
+.todo-box button{
+  border: none;
+  border-radius: 20px;
+  height: 25px;
+  width: 80px;
+  background-color: #F95700FF;
+  color: #FFFFFFFF;
+  
+}
+
+.add-btn {
+  margin-left: 5px;
+}
+
+.todo-line {
+  margin-top: 20px;
+}
+
+.todo-line input {
+  width: 150px;
+  height: 25px;
+  color: green;
+}
+
+.delete-btn {
+  margin-left: 25px;
+}
+
+.pnd-line {
+  margin-top: 15px;
+}
+
+.cmplt-line {
+  margin-top: 55px;
+}
